@@ -1,0 +1,6 @@
+public/attachment/*
+cache/*
+apps/config/config.ini
+*.htaccess
+public/scripts/*
+.DS_Store
